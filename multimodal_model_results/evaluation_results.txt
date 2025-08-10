@@ -1,0 +1,18 @@
+Multimodal Model Evaluation Results
+==================================
+
+Performance Metrics:
+📊 Accuracy: 0.5336
+📊 Precision: 0.2847
+📊 Recall: 0.5336
+📊 F1 Score: 0.3713
+📊 ROC AUC: 0.4997
+
+Timing Statistics:
+⏱️ Total evaluation time: 86.18 seconds
+⏱️ Average batch time: 0.0525 seconds
+
+Modality Processing Times:
+⏱️ text: 0.0139 seconds
+⏱️ image: 0.0314 seconds
+⏱️ audio: 0.0040 seconds
